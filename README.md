@@ -7,3 +7,6 @@ Se pueden copiar los archivos fuente, ubicados en las carpetas src y mediante CM
 
 ## Manera 2:
 En este repositorio tambien se encuentra un archivo ejecutable executable.jar, el cual simplemente con darle doble click ejecutara la aplicación.
+
+<a href="https://postimg.cc/3dqrwN7P" target="_blank"><img src="https://i.postimg.cc/3dqrwN7P/img1.png" alt="img1"/></a>
+<a href="https://postimg.cc/zyRzHNG3" target="_blank"><img src="https://i.postimg.cc/zyRzHNG3/img2.png" alt="img2"/></a>
